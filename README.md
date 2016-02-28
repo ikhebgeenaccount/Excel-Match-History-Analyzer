@@ -7,14 +7,14 @@ It also calculates your winrate and playrate vs certain matchups, and allows you
 ****
 #### What do I need
 ****
-Microsoft Office Excel installed, on Windows. Mac is not supported (yet), since it uses a different version of VBA than Windows. (sorry)
+Microsoft Office Excel installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
 
 #### [Download link](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/1.3)
 
 ****
 ### Supporting and contributing
 ****
-If you'd like to help with this project, contact me via reddit, [http://reddit.com/u/ikhebgeenaccount](/u/ikhebgeenaccount).
+If you'd like to help with this project, contact me via reddit, [/u/ikhebgeenaccount](http://reddit.com/u/ikhebgeenaccount). If you want to show your appreciation for this project and help me out so I can keep spending time on it, [you can donate some money]().
 
 ****
 ### How does it work
@@ -30,7 +30,7 @@ To see your performance against certain matchups go to the "Matchups" page and f
 ****
 ### Then what
 ****
-After you have updated the spreadsheet for the first time, you can update it after each game you play (or after multiple games) and it will insert those new games. Old games will not be deleted, so it takes some time to get useful data from the sheet.
+After you have updated the spreadsheet for the first time, you can update it after each game you play (or after multiple games) and it will insert those new games. Old games will not be deleted. It will take some time to get useful data from your spreadsheet, since you need more than a few games to be able to draw conclusions. After about 20 games you should be able to see some patterns in your stats, and be able to determine on what fields you're lacking.
 
 ****
 ### When you have downloaded the previous version
@@ -52,9 +52,9 @@ First of all, nice you downloaded it :) Now, you probably don't want to start ov
 ### What's next
 ****
 I'll be looking to improve the spreadsheet significantly. One of the most important areas in which it can be improved is speed. Currently it's pretty slow, I'll be looking to improve that in the next update. Also, I want to hear from you guys what stats or features you would like to see.  
-Another feature I'd like to add in the future is the ability to add all your ranked games from this season. I haven't included it in this update since it would take ages considering the speed that game insertion currently happens, but I hope to add it in the near future. 
+Another feature I'd like to add in the future is the ability to add all your ranked games from this season. I haven't included it yet since it would take ages considering the speed that game insertion currently happens, but I hope to add it in the near future. 
 
 ****
 ### Oh no, I get an error!
 ****
-That sucks :/ First, make sure you have entered your summoner name, region and API key correctly. If that is the case, contact me! When sending a PM to me, commenting here or opening an [issue on GitHub](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/issues), be sure to tell me what the error message is. Also, I'd really appreciate it if you could screenshot the page which is erroring.
+That sucks :/ First, make sure you have entered your summoner name, region and API key correctly. If that is the case, contact me! When sending a PM to me ([on reddit](http://reddit.com/u/ikhebgeenaccount)) or opening an [issue on GitHub](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/issues), be sure to tell me what the error message is. Also, I'd really appreciate it if you could screenshot the page which is erroring and your front sheet.
