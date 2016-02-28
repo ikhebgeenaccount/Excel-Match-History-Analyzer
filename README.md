@@ -1,11 +1,10 @@
-****
-### What is it  
+## Match History Analyzer  
 ****
 Match History Analyzer is an Excel Spreadsheet that takes data from your games and calculates stats such as your CS/min and Gold/min on a per game basis, but also over all games you have played. It shows you these stats for all your champions, but you can also filter for certain champions, even by role.  
 It also calculates your winrate and playrate vs certain matchups, and allows you to add notes to these matchups. 
 
 ****
-#### What do I need
+#### What do you need
 ****
 Microsoft Office Excel installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
 
