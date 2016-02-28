@@ -33,7 +33,7 @@ To see your performance against certain matchups go to the "Matchups" page and f
 After you have updated the spreadsheet for the first time, you can update it after each game you play (or after multiple games) and it will insert those new games. Old games will not be deleted. It will take some time to get useful data from your spreadsheet, since you need more than a few games to be able to draw conclusions. After about 20 games you should be able to see some patterns in your stats, and be able to determine on what fields you're lacking.
 
 ****
-### When you have downloaded the previous version
+### Migrating games from one version to another
 ****
 First of all, nice you downloaded it :) Now, you probably don't want to start over with collecting your games. Dont worry tho, you won't have to. You can select the rows of the games you have in your previous sheet and copy them to the new sheet.
 
