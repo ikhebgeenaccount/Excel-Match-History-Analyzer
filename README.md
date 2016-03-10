@@ -13,7 +13,7 @@ Microsoft Office Excel installed, on Windows. Mac is not supported, since it use
 ****
 ### Supporting and contributing
 ****
-If you'd like to help with this project, contact me via reddit, [/u/ikhebgeenaccount](http://reddit.com/u/ikhebgeenaccount). If you want to show your appreciation for this project and help me out so I can keep spending time on it, [you can donate some money]().
+If you'd like to help with this project, contact me via reddit, [/u/ikhebgeenaccount](http://reddit.com/u/ikhebgeenaccount). If you want to show your appreciation for this project and help me out so I can keep spending time on it, [you can donate a few bucks](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESHNNFQLF8RF8).
 
 ****
 ### How does it work
