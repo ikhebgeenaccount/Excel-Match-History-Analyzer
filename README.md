@@ -42,6 +42,7 @@ First of all, nice you downloaded it :) Now, you probably don't want to start ov
   - Added damage percentage dealt to champions from total team damage  
   - Added cs differences at 10, 20, 30 min  
   - Added cs/min for time intervals 0 - 10, 10 - 20, 20 - 30  
+  - Added filters in the match history overview  
 - v1.3:  
   - Added support for EUNE
   - Fixed bug with summoner names that contained spaces
