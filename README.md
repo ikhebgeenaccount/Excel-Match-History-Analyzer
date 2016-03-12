@@ -36,9 +36,8 @@ After you have updated the spreadsheet for the first time, you can update it aft
 ****
 First of all, nice you downloaded it :) Now, you probably don't want to start over with collecting your games. Dont worry tho, you won't have to. You can copy your games from one sheet to the other. A few alterations have to be made tho.
 
-Since I added a few more stats some columns have been changed. Before you copy your games and paste them into the new sheet, there is one thing you need to do. Go to your "General Stats" page and right click on column "X". Then, hit insert. This will add a new column between "KDA" and "CS/min". After that, select all the rows containing data from your games. Be sure to select the complete rows! (Click on the row number to select one cell, drag down to select multiple.) Then, copy these rows.  
+Since I added a few more stats some columns have been changed. Before you copy your games and paste them into the new sheet, there is one thing you need to do. Go to your "General Stats" page and right click on column "X". Then, hit insert. This will add a new column between "KDA" and "CS/min". Then, you need to remove column V, right click it, hit delete. After that, select all the rows containing data from your games. Be sure to select the complete rows! (Click on the row number to select one cell, drag down to select multiple.) Then, copy these rows.  
 After that you can go to your new spreadsheet and paste them in "General stats" in row **4**. **Leave row 3 empty.** Some formulas have been changed, new formulas have been added, and to not delete them, you have to leave this row empty.  
-When you've pasted them, select cell V3 and 'drag' him down. This is done by dragging the little box in the right-bottom corner of the cell down. Drag until your last match. Do the same for cell X3.
 Then you're good to go! If you want to remove the empty row, you can do so after you've added at least one new game via the Update button. Then the formulas are stored in the cells of that new game, so you can remove the empty row. (Right click, remove.)  
 
 **Changelog:**  
