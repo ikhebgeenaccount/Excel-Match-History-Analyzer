@@ -6,7 +6,7 @@ It also calculates your winrate and playrate vs certain matchups, and allows you
 ****
 #### What do you need
 ****
-Microsoft Office Excel installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
+Microsoft Office Excel (2010 or newer) installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
 
 #### [Download link](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/1.3)
 
