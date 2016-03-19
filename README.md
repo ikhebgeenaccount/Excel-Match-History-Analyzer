@@ -8,12 +8,12 @@ It also calculates your winrate and playrate vs certain matchups, and allows you
 ****
 Microsoft Office Excel (2010 or newer) installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
 
-#### [Download link](https://www.paypal.me/ihga/2)
+#### [Download link](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/v1.4)
 
 ****
 ### Supporting and contributing
 ****
-If you'd like to help with this project, contact me via reddit, [/u/ikhebgeenaccount](http://reddit.com/u/ikhebgeenaccount). If you want to show your appreciation for this project and help me out so I can keep spending time on it, [you can donate a few bucks](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESHNNFQLF8RF8).
+If you'd like to help with this project, contact me via reddit, [/u/ikhebgeenaccount](http://reddit.com/u/ikhebgeenaccount). If you want to show your appreciation for this project and help me out so I can keep spending time on it, [you can donate a few bucks](https://www.paypal.me/ihga/2).
 
 ****
 ### How does it work
