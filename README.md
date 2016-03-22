@@ -8,7 +8,8 @@ It also calculates your winrate and playrate vs certain matchups, and allows you
 ****
 Microsoft Office Excel (2010 or newer) installed, on Windows. Mac is not supported, since it uses a different version of VBA than Windows. (sorry)
 
-#### [Download link](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/v1.4)
+#### [Download link](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/v1.5)  
+(Download [this version](https://github.com/ikhebgeenaccount/Excel-Match-History-Analyzer/releases/tag/v1.5b) when you have problems with extraordinary high numbers in csdiff)
 
 ****
 ### Supporting and contributing
